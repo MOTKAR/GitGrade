@@ -22,7 +22,7 @@ Evaluate a student GitHub repository and convert it into a **Score (0–100)** +
 
 ## Example (from prompt)
 Input:
-- `https://github.com/sneha-codes/weather-dashboard`
+- `https://github.com/rasbt/python-machine-learning-book`
 
 Output (format):
 - Score: 42 / 100
@@ -47,3 +47,4 @@ Output (no API key):
 ## Notes
 - Scores are best-effort heuristics.
 - Private repositories are not supported unless you extend cloning with auth.
+
